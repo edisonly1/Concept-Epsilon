@@ -16,6 +16,7 @@ valves, and SCADA pressure sensors to localize leaks:
 - Present results in a lightweight **web dashboard** that highlights likely leak locations
   and shows observed vs simulated pressure traces.
 
+<img width="1897" height="956" alt="luma" src="https://github.com/user-attachments/assets/8fd14f62-75e2-4ea6-82ad-54f7ecbff10b" />
 
 ---
 
