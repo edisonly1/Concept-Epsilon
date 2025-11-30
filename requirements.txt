@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+pandas
+scipy
+torch
+tsnet
+wntr
+networkx
+matplotlib
+python-dotenv
+pyarrow
