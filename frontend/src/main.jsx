@@ -457,7 +457,6 @@ const Dashboard = ({ onLogout }) => {
                                         <option value="N6">Node N6</option>
                                         <option value="N7">Node N7</option>
                                         <option value="N8">Node N8</option>
-                                        <option value="None">No Leak (Baseline)</option>
                                     </select>
                                     </div>
                                     <button onClick={handleSimulate} disabled={loading} className={`w-full py-3 px-4 rounded-lg font-medium text-white flex items-center justify-center gap-2 transition-colors ${loading ? 'bg-slate-400 cursor-not-allowed' : 'bg-blue-600 hover:bg-blue-700 shadow-md hover:shadow-lg'}`}>
